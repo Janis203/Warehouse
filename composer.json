@@ -1,0 +1,11 @@
+{
+  "require": {
+    "nesbot/carbon": "^2.72",
+    "symfony/console": "^5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
